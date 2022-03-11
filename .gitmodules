@@ -1,0 +1,3 @@
+[submodule "moonlight-openvr-sys/openvr"]
+	path = moonlight-openvr-sys/openvr
+	url = https://github.com/ValveSoftware/openvr

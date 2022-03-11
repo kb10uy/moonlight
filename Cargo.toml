@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "moonlight-ash",
+    "moonlight-uketsukejou",
+    "moonlight-openvr",
+    "moonlight-openvr-sys",
+    "maenami",
+]
+resolver = "2"
